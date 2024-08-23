@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |

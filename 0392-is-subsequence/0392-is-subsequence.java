@@ -1,16 +1,15 @@
+// Algo Used: Basic Two Pointers
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int st=0,ed=0;
-        while(st<s.length() && ed<t.length()){
-            if(s.charAt(st) == t.charAt(ed))
-            {
-                st++;
+        int n= s.length();
+        int m= t.length();
+        int i= 0;
+        for(int j=0; j< m; j++){
+            if(i == n) return true; 
+            if(t.charAt(j) == s.charAt(i)){ 
+                i++;
             }
-            ed++;
         }
-        if(st==s.length()) 
-          return true;
-        else
-         return false;
+        return i == n;
     }
 }

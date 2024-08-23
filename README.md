@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0071-simplify-path) |
 ## String Matching
 |  |
 | ------- |

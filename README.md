@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -185,14 +187,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Counting
 |  |
 | ------- |

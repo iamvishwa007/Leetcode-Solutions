@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0777-toeplitz-matrix](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
+| [0917-boats-to-save-people](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0917-boats-to-save-people](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0917-boats-to-save-people](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Trie
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0917-boats-to-save-people](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |

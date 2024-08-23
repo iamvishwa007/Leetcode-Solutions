@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0777-toeplitz-matrix](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
+| [2058-concatenation-of-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [2058-concatenation-of-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
 |  |

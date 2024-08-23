@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |

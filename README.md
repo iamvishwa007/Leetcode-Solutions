@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0777-toeplitz-matrix](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |

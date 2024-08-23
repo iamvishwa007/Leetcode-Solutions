@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

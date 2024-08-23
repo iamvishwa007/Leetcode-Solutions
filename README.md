@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2383-add-two-integers](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2812-find-the-maximum-achievable-number) |

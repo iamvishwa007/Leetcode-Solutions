@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0777-toeplitz-matrix](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |

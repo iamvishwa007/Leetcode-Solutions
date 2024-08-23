@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 ## Simulation
 |  |
 | ------- |
@@ -157,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

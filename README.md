@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0468-validate-ip-address) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1205-defanging-an-ip-address](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2391-strong-password-checker-ii](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2391-strong-password-checker-ii) |
 ## Sliding Window

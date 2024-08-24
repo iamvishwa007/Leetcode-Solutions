@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0917-boats-to-save-people](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
 | ------- |

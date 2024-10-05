@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0777-toeplitz-matrix](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [0917-boats-to-save-people](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1256-rank-transform-of-an-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1256-rank-transform-of-an-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1635-number-of-good-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0917-boats-to-save-people](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1256-rank-transform-of-an-array](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/iamvishwa007/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
